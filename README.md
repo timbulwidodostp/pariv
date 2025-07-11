@@ -3,6 +3,8 @@ Nearly collinear robust instrumental-variables regression Use pariv With STATA 1
 
 Nearly collinear robust procedures for 2SLS estimation Use pariv With STATA 19
 
+https://www.youtube.com/watch?v=1HmqooKZ7II
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
